@@ -1,0 +1,137 @@
+[
+	{
+        "id":1,
+		"title": "Pelota Nike Academy Team",
+        "description": "Salí a divertirte en la cancha con la Pelota Nike Academy Team. Cuenta con ranuras específicamente diseñadas para proporcionar una rotación uniforme y precisa cuando está en el aire. Ahora ya no tendrás que preocuparte por el comportamiento impredecible del balón y podrás concentrarte completamente en tus jugadas. Esta pelota está diseñada para potenciar tu rendimiento en el campo, brindándote el control y la confianza necesaria para destacar en cada partido.",
+        "category":"Deportes",
+        "status": true,
+        "price":59000, 
+        "code":"NIKETEAM",
+        "stock": 21,
+        "thumbnail":[
+            "../public/img/NICU8047-100-1.jpeg"
+    ]
+        
+	},
+	{
+		"id": 2,
+		"title": "Pelota adidas Afa22 Pro",
+		"description": "Sentí la Copa Mundial más cerca con la Pelota adidas Afa22 Pro. Precisa, con una construcción termosellada sin costuras y cuenta con el sello FIFA Quality Pro que mejora los golpes y una textura que optimiza el efecto de giro y la precisión. Inspirada en la icónica pelota tango Rosario que vio coronar a Argentina como campeón del mundo en suelo local. Sentí la pasión por el futbol con los gráficos estampados difuminados y vibrantes que abren paso a un mundo de posibilidades para tu juego con amigos.",
+        "category":"Deportes",
+        "status": true,
+        "price": 149999,
+		"code": "ADIDDASAFA",
+        "stock": 10 ,
+        "thumbnail":[ "../public/img/AD_HE3788-1.jpeg"
+    ]
+	},
+	{
+		"id": 3,
+		"title": "Pelota  adidas Argentina 23 Pro ",
+		"description": "La Pelota Fútbol adidas Argentina 23 Pro N5 es todo lo que cualquier apasionado quisiera tener para disfrutar de sus partidos con amigos o familia en casa. Con un diseño que elogia la liga argentina y te invade de orgullo. Su fabricación en cuero sintético premium, cámara de caucho y construcción en paneles termosellados hacen de este accesorio algo muy duradero que está a la altura de cada ocasión. El sello FIFA Quality Pro se une al escudo de la Selección Argentina decidiéndote por esta pelota única que vas a amar tener.",
+        "category":"Deportes",
+        "status": true,
+        "price": 160000,
+		"code": "ADIDDASARG",
+        "stock": 30,
+        "thumbnail": [
+            "../public/img/ADIA0995-1.jpeg"
+    ]
+		
+	},
+	{
+		"id": 4,
+		"title": "Pelota adidas UCL Istanbul N5",
+		"description": "Mirá cómo se alinearán las estrellas en Estambul en 2023. La Pelota adidas Ucl Istanbul N5 de entrenamiento UCL es perfecta para practicar tus habilidades. Está cosida a máquina para una mayor resistencia al desgaste y un toque suave. Su intrincado diseño se inspira en la pelota oficial usada en las eliminatorias de la UEFA Champions League.",
+        "category":"Deportes",
+        "status": true,
+        "price": 60000,
+		"code": "ADIDDASUCL",
+        "stock": 2,
+        "thumbnail": [
+            "../public/img/ADHU1578-1.jpeg"
+    ]
+		
+	},
+	{
+		"id": 5,
+		"title": "Pelota adidas Argentina 22 Com ",
+		"description": "La Pelota Fútbol Adidas Argentina 22 Com Unisex es la elección perfecta para los fanáticos de este deporte. Con un diseño icónico inspirado en la selección argentina, esta pelota te ofrece un rendimiento excepcional en el campo. Su construcción duradera y resistente al desgaste garantiza una gran durabilidad, mientras que su diseño de paneles cosidos a máquina proporciona un vuelo preciso y una sensación suave al golpearla. Dominá el juego con tu talento y esta pelota.",
+        "category":"Deportes",
+        "status": true,
+        "price": 94999,
+		"code": "ADIDDASFC",
+        "stock": 26,
+        "thumbnail": [
+            "../public/img/ADHE3787-1.jpeg"
+    ]
+	
+	}, 
+	{
+		"id": 6,
+		"title": "PELOTA PUMA ORBITA SERIE A HYBRID NUIMERO 5 BLANCA",
+		"description": " Perfecta para los días de partido, sesiones de training o con amigos la pelota Orbita Serie A Hybrid ofrece un rendimiento polivalente con unas fantásticas características de rebote, durabilidad y vuelo",
+        "category":"Deportes",
+        "status": true,
+        "price":59999,
+		"code": "HIBRIDP",
+        "stock": 6,
+        "thumbnail": [
+            "../public/img/pelota-de-futbol-puma-orbita-serie-a-hybrid-nuimero-5-blanca-640040084002001-1.jpg"
+    ]
+		
+	},
+	{
+		"id": 7,
+		"title": "PELOTA NASSAU POKER NUMERO 5 BLANCA",
+		"description": "Demostrá tus habilidades acompañado de la calidad de la pelota NASSAU Poker.",
+        "category":"Deportes",
+        "status": true,
+        "price": 38000,
+		"code": "NASSAU",
+        "stock": 13,
+        "thumbnail": [
+            "../public/img/pelota-de-futbol-nassau-poker-numero-5-blanca-530040020509001-1.jpg"
+    ]
+		
+	},
+	{
+		"id": 8,
+		"title": "PELOTA NASSAU SPECTRO NUMERO 5 BLANCA",
+		"description": "Disfrutá los partidos con la pelota NASSAU Spectro.",
+        "category":"Deportes",
+        "status": true,
+        "price": 39000,
+		"code": "NASSAUSPECTRO",
+        "stock": 16,
+        "thumbnail": [
+            "../public/img/pelota-de-futbol-nassau-spectro-numero-5-blanca-53004sbst5mg001-1.jpg"
+    ]
+	},
+	{
+		"id": 9,
+		"title": "PELOTA  NASSAU PYRAMID NUMERO 5 BLANCA",
+		"description": "Disfrutá los partidos con la pelota NASSAU Pyramid.",
+        "category":"Deportes",
+        "status": true,
+        "price": 39000,
+		"code": "NASSAUPD",
+        "stock": 10,
+        "thumbnail": [
+            "../public/img/pelota-de-futbol-nassau-pyramid-numero-5-blanca--53004sbpr5bl001-1.jpg"
+    ]
+	},
+	{
+		"id": 10,
+		"title": "PELOTA DE FUTSAL ADIDAS OCEAUNZ PRO NUMERO 4 BLANCA",
+		"description": "Creada para un fútbol fluido. Reflejando la belleza natural de Australia y Nueva Zelanda, los dibujos de esta pelota adidas Oceaunz pro sala toman inspiración de la pelota oficial de la Copa Mundial Femenina de la FIFA™. Hecha para los partidos de futsal, esta pelota sin costuras tiene una cámara de butilo para un juego lleno de habilidad. El sello FIFA Quality Pro asegura que puedas jugar con confianza cada vez que pisas la cancha.",
+        "category":"Deportes",
+        "status": true,
+        "price": 91900,
+		"code": "OCEAUNZ",
+        "stock": 18,
+        "thumbnail":[ 
+            "../public/img/pelota-de-futsal-oceaunz-pro-numero-4-blanca-100040hz6930001-1.jpg"
+    ]
+	}
+]
