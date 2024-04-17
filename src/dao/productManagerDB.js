@@ -30,7 +30,7 @@ class productManagerDB {
 
   async createProduct(product) {
     productValidator(product);
-    const { title, description, code, price, stock, category, thumbnails } =
+    const { title, description, code, price, stock, category, thumbnail } =
       product;
 
     try {
@@ -41,7 +41,7 @@ class productManagerDB {
         price,
         stock,
         category,
-        thumbnails: thumbnails ?? [],
+        thumbnail: thumbnail ?? [],
       });
       return result;
     } catch (error) {

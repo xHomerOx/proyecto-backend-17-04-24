@@ -27,7 +27,7 @@ app.set("view engine", "handlebars");
 app.set("views", __dirname + "/../views");
 
 // Mongoose
-const uri = "mongodb://127.0.0.1:27017/lma:Nelson1204@cluster0.9d6vkgf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = `mongodb+srv://lma:Nelson1204@cluster0.9d6vkgf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     console.log("Conexión exitosa a la base de datos");
