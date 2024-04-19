@@ -39,7 +39,7 @@ function createTableRow(product) {
     <td><img src="${
       product.thumbnail && product.thumbnail.length
         ? "img/" + product.thumbnail[0]
-        : "img/noThumbnails.webp"
+        : "img/nothumbnail.webp"
     }" alt="Thumbnail" class="thumbnail" style="width: 75px;"></td>
     <td><button class="btn btn-effect btn-dark btn-jif bg-black" onClick="deleteProduct('${
       product._id

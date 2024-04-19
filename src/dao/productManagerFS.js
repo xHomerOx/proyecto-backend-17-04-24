@@ -88,7 +88,7 @@ class productManagerFS {
         updatedStock || products[productIndex].stock;
       products[productIndex].category =
         category || products[productIndex].category;
-      products[productIndex].thumbnails =
+      products[productIndex].thumbnail =
         thumbnail || products[productIndex].thumbnail;
       try {
         await writeToFile(this.file, products);
