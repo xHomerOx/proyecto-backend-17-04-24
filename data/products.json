@@ -9,7 +9,7 @@
         "code":"NIKETEAM",
         "stock": 21,
         "thumbnail":[
-            "../public/img/NICU8047-100-1.jpeg"
+            "NICU8047-100-1.jpeg"
     ]
         
 	},
@@ -22,7 +22,7 @@
         "price": 149999,
 		"code": "ADIDDASAFA",
         "stock": 10 ,
-        "thumbnail":[ "../public/img/AD_HE3788-1.jpeg"
+        "thumbnail":[ "AD_HE3788-1.jpeg"
     ]
 	},
 	{
@@ -35,7 +35,7 @@
 		"code": "ADIDDASARG",
         "stock": 30,
         "thumbnail": [
-            "../public/img/ADIA0995-1.jpeg"
+            "ADIA0995-1.jpeg"
     ]
 		
 	},
@@ -49,7 +49,7 @@
 		"code": "ADIDDASUCL",
         "stock": 2,
         "thumbnail": [
-            "../public/img/ADHU1578-1.jpeg"
+            "ADHU1578-1.jpeg"
     ]
 		
 	},
@@ -63,7 +63,7 @@
 		"code": "ADIDDASFC",
         "stock": 26,
         "thumbnail": [
-            "../public/img/ADHE3787-1.jpeg"
+            "ADHE3787-1.jpeg"
     ]
 	
 	}, 
@@ -77,7 +77,7 @@
 		"code": "HIBRIDP",
         "stock": 6,
         "thumbnail": [
-            "../public/img/pelota-de-futbol-puma-orbita-serie-a-hybrid-nuimero-5-blanca-640040084002001-1.jpg"
+            "pelota-de-futbol-puma-orbita-serie-a-hybrid-nuimero-5-blanca-640040084002001-1.jpg"
     ]
 		
 	},
@@ -91,7 +91,7 @@
 		"code": "NASSAU",
         "stock": 13,
         "thumbnail": [
-            "../public/img/pelota-de-futbol-nassau-poker-numero-5-blanca-530040020509001-1.jpg"
+            "pelota-de-futbol-nassau-poker-numero-5-blanca-530040020509001-1.jpg"
     ]
 		
 	},
@@ -105,7 +105,7 @@
 		"code": "NASSAUSPECTRO",
         "stock": 16,
         "thumbnail": [
-            "../public/img/pelota-de-futbol-nassau-spectro-numero-5-blanca-53004sbst5mg001-1.jpg"
+            "pelota-de-futbol-nassau-spectro-numero-5-blanca-53004sbst5mg001-1.jpg"
     ]
 	},
 	{
@@ -118,7 +118,7 @@
 		"code": "NASSAUPD",
         "stock": 10,
         "thumbnail": [
-            "../public/img/pelota-de-futbol-nassau-pyramid-numero-5-blanca--53004sbpr5bl001-1.jpg"
+            "pelota-de-futbol-nassau-pyramid-numero-5-blanca--53004sbpr5bl001-1.jpg"
     ]
 	},
 	{
@@ -131,7 +131,7 @@
 		"code": "OCEAUNZ",
         "stock": 18,
         "thumbnail":[ 
-            "./public/img/pelota-de-futsal-oceaunz-pro-numero-4-blanca-100040hz6930001-1.jpg"
+            "pelota-de-futsal-oceaunz-pro-numero-4-blanca-100040hz6930001-1.jpg"
     ]
 	}
 ]
