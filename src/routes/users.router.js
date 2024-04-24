@@ -1,9 +1,8 @@
 import {Router} from 'express';
 import userModel from "../dao/models/userModel.js";
+import { auth } from '../middleware/middleware.js';
 
 const router = Router();
-
-
 
 router.post("/register",async (req, res) => {
     try {
@@ -17,7 +16,7 @@ router.post("/register",async (req, res) => {
     }
 });
 
-router.post("/login", async (req, res) => {
+router.post("/login", auth, async (req, res) => {
     try {
         req.session.failLogin = false;
         const result = await userModel.findOne({email: req.body.email});
@@ -32,15 +31,13 @@ router.post("/login", async (req, res) => {
         }else{
             const password = result.password;
             const email = result.email;
-            if (email ==  "adminCoder@coder.com" && password == "adminCod3r123") {
-                req.session.admin = true;
-            }else{
-                req.session.admin = false;
-            }
+            console.log(email, password)
+
+
             delete result.password;
             req.session.user = result;
     
-            return res.redirect("/home");
+            return res.redirect("/");
         }
     } catch (e) {
         req.session.failLogin = true;
